@@ -2,7 +2,7 @@
 
 Chatify is a full-stack real-time chat application with cookie-based authentication, one-to-one messaging, image sharing, online presence, and welcome email support.
 
-![Dashboard Overview](chatify.jpg)
+![Dashboard Overview](image/chatify.jpg)
 ## Features
 
 - 🔐 Custom JWT Authentication (no 3rd-party auth)
